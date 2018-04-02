@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+div#top{
+	width: 1000px;
+	margin: 30px auto;
+}
+
+header{
+	background-color: transparent;
+	min-height: 80px;
+
+}
+
+#display{
+	background-color: transparent;
+	min-height: 300px;
+	
+}
+
+#column{
+	background-color: transparent;
+	width: 750px;
+	float: left;
+	min-height: 500px;
+
+}
+
+

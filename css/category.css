@@ -1,0 +1,20 @@
+.container{
+	position: relative;
+	padding: 10px;
+	box-sizing:border-box;
+}
+.container .box{
+	width: 23%;
+	height: 310px;
+	line-height: 100px;
+	text-align: center;
+	color: rgba(255, 255, 255, .5);
+	font-family: arial;
+	font-size: 2em;
+	float: left;
+	box-sizing:border-box;
+	margin: 10px;
+	text-transform: uppercase;
+	border-radius: 6px;
+	border-style: groove;
+}
